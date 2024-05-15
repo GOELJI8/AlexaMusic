@@ -1,6 +1,7 @@
 aiofiles
 aiohttp
 dnspython==2.3.0
+ffmpeg
 ffmpeg-python
 gitpython
 hachoir
